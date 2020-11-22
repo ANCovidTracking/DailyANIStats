@@ -1,7 +1,7 @@
 # Daily A & N Islands  Covid-19 Case Stats
 
 Statistics Source: 
-DHS, A&N Administration (www.dhs.andaman.gov.in), 
-The Daily Telegram www.dt.andaman.gov.in and 
+DHS, A&N Administration (https://dhs.andaman.gov.in), 
+The Daily Telegram (http://dt.andaman.gov.in)and 
 Andaman and Nicobar Admn (@Andaman_Admin) on Twitter (www.twitter.com/Andaman_Admin)
 
