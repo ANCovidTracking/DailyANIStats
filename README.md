@@ -1,4 +1,4 @@
-# Daily A & N Islands  Covid-19 Stats (Case, Sampling and Testing)
+# Daily A & N Islands Covid-19 Stats (Case, Sample & Testing Stats)
 
 **Statistics Source:**
 - `DHS, A&N Administration`(https://dhs.andaman.gov.in), 
