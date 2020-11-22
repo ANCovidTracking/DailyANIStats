@@ -5,5 +5,8 @@
 - `The Daily Telegram`(http://dt.andaman.gov.in) and 
 - `Andaman & Nicobar Admn` on `Twitter` (www.twitter.com/Andaman_Admin)
 
-**Follow us on Twitter:** www.twitter.com/ANCovidTracking
+**Follow us on Twitter:**
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+www.twitter.com/ANCovidTracking
 
