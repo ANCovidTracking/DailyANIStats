@@ -6,5 +6,5 @@
 - `Andaman & Nicobar Admn` on `Twitter` (www.twitter.com/Andaman_Admin)
 
 **Follow us on Twitter:**
-- [ANCovidTracking] (https://twitter.com/ANCovidTracking)
+- `**ANCovidTracking**` (https://twitter.com/ANCovidTracking)
 
